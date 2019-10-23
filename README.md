@@ -1,1 +1,1 @@
-# get_next_line---getline-clone
+# GetLine Clone - 42 Get Next Line
